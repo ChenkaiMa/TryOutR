@@ -1,6 +1,7 @@
 # R Package (to play with)
 ## Notes
 - This is not a finished version (in terms of being clean code), but it is functionally correct and has passed the check.
+- Also, sometimes the output is a little messy and the precision of time is too low.
 - It can be played with.
 ## Tools
 IDE: RStudio<br />
